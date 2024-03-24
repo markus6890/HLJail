@@ -1,0 +1,11 @@
+main: com.gmail.markushygedombrowski.HLJail
+name: HLJail
+version: 1.0
+softdepend: [HLWarp,WorldEdit,WorldGuard,HLUtils]
+commands:
+    jail:
+        description: Jail a player
+        aliases: ["unjail","removejailmeta"]
+    k:
+        description: kauktion
+        aliases: ["kaution"]
